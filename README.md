@@ -2,7 +2,7 @@
 
 An unofficial Ableton Live Remote Script for the M-VAVE SMK-37 Pro, using its stock firmware. Session navigation, clip launch/record/delete, transport, selected-track faders and RGB pad feedback. Developed iteratively with Codex and tested on one physical keyboard.
 
-Demo vidkkkeo: https://www.youtube.com/watch?v=gbxdWIuOYDM 
+Demo video: https://www.youtube.com/watch?v=gbxdWIuOYDM 
 
 ## Tested setup
 
